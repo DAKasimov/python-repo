@@ -1,3 +1,3 @@
 # https://git-scm.com/
 
-print(1)
+print(100)
